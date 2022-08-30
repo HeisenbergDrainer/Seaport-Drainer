@@ -4,7 +4,7 @@
 
 ![preview](/heisenberg.jpg)
 
-![preview](https://youtu.be/gA54VKVPrPY)
+![preview](https://t.me/heisenbergdrainer)
 Educational purposes only. Premium versions available at https://t.me/heisenbergdrainer
 # 💡 Features
 - [x] Custom Design.
